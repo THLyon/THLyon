@@ -20,7 +20,7 @@ Focused on AI defense, data sovereignty, and next-gen intelligence systems
 |----------|--------------|-------|
 | [**Project TITAN**](https://github.com/THLyon/Project-TITAN) | Threat Intelligence Node with real-time analysis & LLM routing | Python, FastAPI, LangChain |
 | [**Atlas Mock**](https://github.com/THLyon/Atlas_Mock) | Legal Industry focused Modular MCP RAG AI System  | TypeScript, Node.js, MCP, RAG, OpenAI, MongoDB, Pinecone |
-| [**VerifyAI**](https://github.com/verifyai/VerifyAI) | https://github.com/verifyai/VerifyAI  | Typescript, Node.js, Next.js, RAG, OpenAI, Pinecone |
+| [**VerifyAI**](https://github.com/verifyai/VerifyAI) | AI-Powered Merchant Compliance Checker | Typescript, Node.js, Next.js, RAG, OpenAI, Pinecone |
 | [**Gimme**](https://github.com/THLyon/Gimme-Scorecard) | PGA Scorecard Chrome Extension | JavaScript, TypeScript, PostgreSQL, REST, CSS |
 | [**DataDividend**](https://github.com/THLyon/datadividend) | Decentralized Data Ownership & Value Platform | Next.js, Prisma, PostgreSQL |
 | [**CITADEL**](https://github.com/THLyon/citadel) | Cyber Defense Training Simulation | Python, AWS Lambda, DynamoDB |
@@ -37,7 +37,7 @@ Focused on AI defense, data sovereignty, and next-gen intelligence systems
 ---
 
 ### 📊 GitHub Analytics
-![Tanner’s GitHub stats](https://github-readme-stats.vercel.app/api?username=THLyon&show_icons=true&theme=radical)
+<!-- ![Tanner’s GitHub stats](https://github-readme-stats.vercel.app/api?username=THLyon&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THLyon&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=THLyon&theme=radical)
 
