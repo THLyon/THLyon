@@ -1,7 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FFFF&width=800&lines=Building+AI+Systems+for+the+Next+Era+of+Human+Intelligence.)](https://git.io/typing-svg)
+
 # Hello, I'm Tanner.
 # Long term goal is to help take humanity to a Type II Civilization on the Kardashev Scale
 
-Software Engineer | AI Systems | Cybersecurity + Cloud
+Software Engineer <br>
+AI Systems | Cybersecurity + Cloud
 Building **Project TITAN**, **CITADEL**, and **DataDividend**  
 Focused on AI defense, data sovereignty, and next-gen intelligence systems
 
@@ -9,14 +12,14 @@ Focused on AI defense, data sovereignty, and next-gen intelligence systems
 
 ### My Tech Stack and Tools
 
-**Languages & Frameworks**
+**Languages & Frameworks** <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) <br>
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?logo=fastapi&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/API-GraphQL-E10098?logo=graphql)
 
-**Cloud & Infra**  <br>
+**Cloud & Infra** <br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white) ![Pulumi](https://img.shields.io/badge/IaC-Pulumi-8A3391?logo=pulumi&logoColor=white) ![Render](https://img.shields.io/badge/Hosting-Render-46E3B7?logo=render&logoColor=white)
 
-**AI & Data**  <br>
+**AI & Data** <br>
 ![OpenAI](https://img.shields.io/badge/AI-OpenAI-412991?logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/Framework-LangChain-1E88E5?logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/VectorDB-Pinecone-00BFA6?logo=pinecone&logoColor=white) ![HuggingFace](https://img.shields.io/badge/ML-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 
 **Databases & ORM** <br>
