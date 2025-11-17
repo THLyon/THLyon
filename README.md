@@ -60,7 +60,7 @@ Cloud Architecture • RAG Pipelines • Cyber Threat Intelligence • LLM Integ
 <!-- ![Tanner’s GitHub stats](https://github-readme-stats.vercel.app/api?username=THLyon&show_icons=true&theme=radical) -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THLyon&layout=compact&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com?user=THLyon&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=THLyon&theme=radical" height="165" />
 </div>
 
 
