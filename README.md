@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FFFF&width=800&lines=Building+AI+Systems+for+the+Next+Era+of+Human+Intelligence.)](https://git.io/typing-svg)
 
 # Hello, I'm Tanner.
-# Long term goal is to help take humanity to a Type II Civilization on the Kardashev Scale
+# Long term goal: Help take humanity to a Type II Civilization on the Kardashev Scale
 
-Software Engineer <br>
-AI Systems | Cybersecurity + Cloud <br>
+Software Engineer - **AI Systems | Cybersecurity | Distributed Cloud Architecture** <br>
+Focused on AI-driven threat intelligence, next-gen intelligence systems, and data sovereignty<br> 
 Currently Building: **Project TITAN**, **Project CITADEL**, and **DataDividend** <br> 
-Focused on AI defense, data sovereignty, and next-gen intelligence systems
 
 ---
 
@@ -47,12 +46,13 @@ Focused on AI defense, data sovereignty, and next-gen intelligence systems
 | [**Atlas Mock**](https://github.com/THLyon/Atlas_Mock) | Legal Industry focused Modular MCP RAG AI System  | TypeScript, Node.js, MCP, RAG, OpenAI, MongoDB, Pinecone |
 | [**VerifyAI**](https://github.com/verifyai/VerifyAI) | AI-Powered Merchant Compliance Checker | Typescript, Node.js, Next.js, RAG, OpenAI, Pinecone |
 | [**Gimme**](https://github.com/THLyon/Gimme-Scorecard) | PGA Scorecard Chrome Extension | JavaScript, TypeScript, PostgreSQL, REST, CSS |
-| [**DataDividend**](https://github.com/THLyon/datadividend) | Decentralized Data Ownership & Value Platform | Next.js, Prisma, PostgreSQL |
 | [**CITADEL**](https://github.com/THLyon/citadel) | Cyber Defense Training Simulation | Python, AWS Lambda, DynamoDB |
+| [**DataDividend**](https://github.com/THLyon/datadividend) | Decentralized Data Ownership & Value Platform | Next.js, Prisma, PostgreSQL |
+
 
 ---
 ### Featured Skills
-Cloud Architecture • RAG Pipelines • Cyber Threat Intelligence • LLM Integration • System Design • AWS Lambda • TypeScript + Python • Prisma • PostgreSQL • Terraform
+Cloud Architecture • MCP/RAG Pipelines • Cyber Threat Intelligence • LLM Integration • System Design • AWS Lambda • TypeScript + Python • Prisma • PostgreSQL • Terraform
 
 ---
 
