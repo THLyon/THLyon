@@ -4,8 +4,8 @@
 # Long term goal is to help take humanity to a Type II Civilization on the Kardashev Scale
 
 Software Engineer <br>
-AI Systems | Cybersecurity + Cloud
-Building **Project TITAN**, **CITADEL**, and **DataDividend**  
+AI Systems | Cybersecurity + Cloud <br>
+Currently Building: **Project TITAN**, **Project CITADEL**, and **DataDividend** <br> 
 Focused on AI defense, data sovereignty, and next-gen intelligence systems
 
 ---
